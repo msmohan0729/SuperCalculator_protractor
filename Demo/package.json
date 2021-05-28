@@ -1,5 +1,5 @@
 {
-  "name": "Demo",
+  "name": "Demo",/*i hate this project becz i dont know*/
   "dependencies": {
     "protractor": "^7.0.0",
     "jasmine-data-provider": "^2.2.0",
